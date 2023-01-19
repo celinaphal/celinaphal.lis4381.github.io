@@ -50,7 +50,7 @@ Three Parts
 #### Tutorial Links:
 
 *Bitbucket Tutorial - Station Locations:*
-[A1 Bitbucket Station Locations Tutorial Link](https://bitbucket.org/cdp21d/bitbucketstationlocations/src/master/)
+[A1 Bitbucket Station Locations Tutorial Link](https://bitbucket.org/cdp21d/bitbucketstationlocations/src/master/ "Bitbucket Tutorial")
 
 *Tutorial: Request to update a teammate's repository:*
 [A1 My Team Quotes Tutorial Link](https://bitbucket.org/username/myteamquotes/ "My Team Quotes Tutorial")
