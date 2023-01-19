@@ -2,20 +2,21 @@ LIS4381: Mobile Web Application Development
 
 Celina Phal
 
-### Assignment # Requirements:
+#### Assignment 1 Requirements: 
 
-*Sub-Heading:*
+Three Parts 
 
-1. Ordered-list items
-2. 
-3. 
+1. Distributed Version Control with Git and Bitbucket
+2. Development Installations
+3. Chapter Questions (Chs 1, 2)
 
 #### README.md file should include the following items:
 
-* Bullet-list items
-* 
-* 
-* 
+* Screenshot of AMPPS Installation
+* Screenshot of running java Hello
+* Screenshot of running Android Studio - My First App
+* git commands with short descriptions
+* Bitbucket repo links: a) this assignment and b) the completed tutorials above
 
 > This is a blockquote.
 > 
@@ -23,27 +24,27 @@ Celina Phal
 >
 > #### Git commands w/short descriptions:
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
+1. git init -
+2. git status -
+3. git add - 
+4. git commit - 
+5. git push -
+6. git pull - 
+7. git - 
 
 #### Assignment Screenshots:
 
 *Screenshot of AMPPS running http://localhost*:
 
-![AMPPS Installation Screenshot](img/ampps.png)
+![AMPPS Installation Screenshot](img/ampps.jpg)
 
 *Screenshot of running java Hello*:
 
-![JDK Installation Screenshot](img/jdk_install.png)
+![JDK Installation Screenshot](img/jdk_install.jpg)
 
 *Screenshot of Android Studio - My First App*:
 
-![Android Studio Installation Screenshot](img/android.png)
+![Android Studio Installation Screenshot](img/android.jpg)
 
 
 #### Tutorial Links:
