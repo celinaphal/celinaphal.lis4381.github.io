@@ -1,10 +1,10 @@
 > **NOTE:** This README.md file should be placed at the **root of each of your main directory.**
 
-# Class number and name
+# LIS4381: Mobile App Development
 
-## Your name
+## Celina Phal
 
-### Class Number Requirements:
+### LIS4381 Requirements:
 
 *Course Work Links:*
 
@@ -14,3 +14,6 @@
 
 2. [A2 README.md](a2/README.md "My A2 README.md file")
 
+*Screenshot of Skillset 1*:
+
+![Skillset1](img/Even_Or_Odd.png)
