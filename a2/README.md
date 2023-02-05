@@ -9,9 +9,9 @@
 2. Provide screenshots of completed app.
 3. Screenshots of skillsets 1-3.
 
-| Syntax      | Description |
+|   Healthy Recipes Android App    |  |
 | ----------- | ----------- |
-| ![img1](img/A2_img1.png)      | ![img2](img/A2_img2.png)       |
+| ![img1](img/A2_img2.png)      | ![img2](img/A2_img1.png)       |
 
 
 
