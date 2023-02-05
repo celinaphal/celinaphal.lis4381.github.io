@@ -12,4 +12,3 @@
 | *Screenshot of Skillset 1*      | *Screenshot of Skillset 2*: | *Screenshot of Skillset 3*:     |
 | :----:       |    :----:   |          :----: |
 | ![Skillset1](img/Even_Or_Odd.png)   | ![Skillset2](img/Q2_Largest_Number.png) | ![Skillset3](img/Q3_Arrays_And_Loops.png) |
-| Paragraph   | Text        | And more      |
