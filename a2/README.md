@@ -9,7 +9,12 @@
 2. Provide screenshots of completed app.
 3. Screenshots of skillsets 1-3.
 
-| ![img1](img/A2_img1.png)    | ![img2](img/A2_img2.png|
+| Syntax      | Description |
+| ----------- | ----------- |
+| ![img1](img/A2_img1.png)      | ![img2](img/A2_img2.png)       |
+
+
+
 
 
 | *Screenshot of Skillset 1*      | *Screenshot of Skillset 2*: | *Screenshot of Skillset 3*:     |
