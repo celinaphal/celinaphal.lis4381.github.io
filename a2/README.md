@@ -3,7 +3,7 @@
 
 ## Celina Phal
 
-#### Assignment 2 Requirements:
+#### Assignment 2 Requirements
 
 1. Create Healthy Recipes Android App.
 2. Provide screenshots of completed app.
