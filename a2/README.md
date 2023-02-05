@@ -9,6 +9,9 @@
 2. Provide screenshots of completed app.
 3. Screenshots of skillsets 1-3.
 
+| ![img1](img/A2_img1.png)    | ![img2](img/A2_img2.png|
+
+
 | *Screenshot of Skillset 1*      | *Screenshot of Skillset 2*: | *Screenshot of Skillset 3*:     |
 | :----:       |    :----:   |          :----: |
 | ![Skillset1](img/Even_Or_Odd.png)   | ![Skillset2](img/Q2_Largest_Number.png) | ![Skillset3](img/Q3_Arrays_And_Loops.png) |
