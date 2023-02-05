@@ -4,16 +4,18 @@
 
 ## Celina Phal
 
-### LIS4381 Requirements:
+#### Assignment 2 Requirements:
 
-*Course Work Links:*
-
-1. [A1 README.md](a1/README.md "My A1 README.md file")
-    - Install something
-    - Install something
-
-2. [A2 README.md](a2/README.md "My A2 README.md file")
+1. Create Healthy Recipes Android App.
+2. Provide screenshots of completed app.
+3. Screenshots of skillsets 1-3.
 
 *Screenshot of Skillset 1*:
 
 ![Skillset1](img/Even_Or_Odd.png)
+
+*Screenshot of Skillset 2*:
+![Skillset2](img/q2_largest_number.png)
+
+*Screenshot of Skillset 3*:
+![Skillset3](img/Q3_Arrays_And_Loops.png)
