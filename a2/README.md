@@ -15,7 +15,7 @@
 ![Skillset1](img/Even_Or_Odd.png)
 
 *Screenshot of Skillset 2*:
-![Skillset2](img/q2_largest_number.png)
+![Skillset2](img/Q2_Largest_Number.png)
 
 *Screenshot of Skillset 3*:
 ![Skillset3](img/Q3_Arrays_And_Loops.png)
