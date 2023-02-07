@@ -18,6 +18,7 @@ LIS4381 Requirements:
 2. [A2 README.md](a2/README.md "My A2 README.md file")
     - Create Healthy Recipes Android App
     - Provide screenshots of completed app
+    - Write and compile 3 skillsets for assignment.
 
 3. [A3 README.md](a3/README.md "My A3 README.md file")
     - Create ERD based upon business rules
