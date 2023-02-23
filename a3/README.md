@@ -27,6 +27,10 @@ Customer Table:
 Petstore Table:
 ![SS2](img/img5.png)
 
+Links:
+[a3.mwb](docs/a3.mwb "a3.mwb")
+[a3.sql](docs/A3.sql "a3.sql")
+
 
 | *Screenshot of Skillset 4*      | *Screenshot of Skillset 5*: | *Screenshot of Skillset 6*:     |
 | :----:       |    :----:   |          :----: |
