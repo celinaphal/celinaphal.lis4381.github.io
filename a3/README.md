@@ -15,15 +15,19 @@
 ![ERD](img/img1.png)
 
 
-|   Screenshot of running application's opening user interface.     |  | Screenshot of running application processing user input.
+|   *Screenshot of running application's opening user interface*     |  *Screenshot of running application processing user input*
 | ----------- | ----------- |
 | ![img2](img/img2.png)      | ![img3](img/img3.png)       |
 
-#### Screenshot of 10 Records from each table
+#### Screenshot of 10 Records from each table:
+Pet Table:
 ![SS1](img/img4.png)
-![SS2](img/img5.png)
+Customer Table:
 ![SS3](img/img6.png)
+Petstore Table:
+![SS2](img/img5.png)
+
 
 | *Screenshot of Skillset 4*      | *Screenshot of Skillset 5*: | *Screenshot of Skillset 6*:     |
 | :----:       |    :----:   |          :----: |
-| ![Skillset4](img/Q4.png1)   | ![Skillset5](img/Q5.png) | ![Skillset6](img/Q6.png) |
+| ![Skillset4](img/Q4.png)   | ![Skillset5](img/Q5.png) | ![Skillset6](img/Q6.png) |
