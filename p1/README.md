@@ -19,4 +19,4 @@
 
 | *Screenshot of Skillset 7*      | *Screenshot of Skillset 8*: | *Screenshot of Skillset 9*:     |
 | :----:       |    :----:   |          :----: |
-| ![Skillset1](img/ss7.png)   | ![Skillset2](img/ss8.png) | ![Skillset3](img/Q3_Arrays_And_Loops.png) |
+| ![Skillset1](img/ss7.png)   | ![Skillset2](img/ss8.png) | ![Skillset3](img/ss7.png) |
