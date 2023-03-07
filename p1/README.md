@@ -9,14 +9,14 @@
 2. Provide screenshots of completed app.
 3. Screenshots of skillsets 7-9.
 
-|   Healthy Recipes Android App    |  |
+|   My Business Card App    |  |
 | ----------- | ----------- |
-| ![img1](img/A2_img2.png)      | ![img2](img/A2_img1.png)       |
+| ![img1](img/pss1.png)      | ![img2](img/pss2.png)       |
 
 
 
 
 
-| *Screenshot of Skillset 1*      | *Screenshot of Skillset 2*: | *Screenshot of Skillset 3*:     |
+| *Screenshot of Skillset 7*      | *Screenshot of Skillset 8*: | *Screenshot of Skillset 9*:     |
 | :----:       |    :----:   |          :----: |
 | ![Skillset1](img/ss7.png)   | ![Skillset2](img/ss8.png) | ![Skillset3](img/Q3_Arrays_And_Loops.png) |
