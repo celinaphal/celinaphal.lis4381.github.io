@@ -11,7 +11,7 @@
 
 |   My Business Card App    |  |
 | ----------- | ----------- |
-| ![img1](img/pss1.png)      | ![img2](img/pss2.PNG)       |
+| ![img1](img/pss1.png)      | ![img2](img/ps2.png)       |
 
 
 
