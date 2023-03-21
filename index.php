@@ -5,10 +5,10 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta name="description" content="My online portfolio that illustrates skills acquired while working through various project requirements.">
-		<meta name="author" content="Mark K. Jowett, Ph.D.">
+		<meta name="author" content="Celina Phal">
 		<link rel="icon" href="favicon.ico">
 
-		<title>My Online Portfolio</title>
+		<title>Celina Phal's Online Portfolio</title>
 
 		<?php include_once("css/include_css.php"); ?>	
 
@@ -73,7 +73,7 @@
 							<div class="active item" style="background: url(img/yourimage.jpg) no-repeat left center; background-size: cover;">
 								<div class="container">
 									<div class="carousel-caption">
-										<h3>First slide label</h3>
+										<h3>testing</h3>
 										<p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                         </div>
                       </div>

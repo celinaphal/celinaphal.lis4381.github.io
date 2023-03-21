@@ -8,7 +8,7 @@
 		<meta name="author" content="Mark K. Jowett, Ph.D.">
     <link rel="icon" href="favicon.ico">
 
-		<title>LIS4381 - Assignment1</title>		
+		<title>CRSXXXX - Assignment1</title>		
 		<?php include_once("../css/include_css.php"); ?>			
   </head>
 
@@ -22,22 +22,17 @@
 					<?php include_once("global/header.php"); ?>	
 				</div>
 				<p class="text-justify">
-					<strong>Requirements:</strong>
-					 Three Parts:
-
-Distributed Version Control with Git and Bitbucket,
-Development Installations,
-Chapter Questions (Chs 1, 2)
+					<strong>Description:</strong> The expected norm...(*be sure* to copy the assignment requirements here!) 
 				</p>
 
 				<h4>Java Installation</h4>
-				<img src="img/jdk_install.png" class="img-responsive center-block" alt="JDK Installation">
+				<img src="img/jdk_installation.png" class="img-responsive center-block" alt="JDK Installation">
 
 				<h4>Android Studio Installation</h4>
-				<img src="img/android.png" class="img-responsive center-block" alt="Android Studio Installation">
+				<img src="img/Android_A1_Screenshot.png" class="img-responsive center-block" alt="Android Studio Installation">
 
 				<h4>AMPPS Installation</h4>
-				<img src="img/ampps.png" class="img-responsive center-block" alt="AMPPS Installation">
+				<img src="img/ampps_installation.png" class="img-responsive center-block" alt="AMPPS Installation">
 				
 				<?php include_once "global/footer.php"; ?>
 
