@@ -8,7 +8,7 @@
 		<meta name="author" content="Mark K. Jowett, Ph.D.">
     <link rel="icon" href="favicon.ico">
 
-		<title>CRSXXXX - Assignment1</title>		
+		<title>LIS4381 - Assignment 2</title>		
 		<?php include_once("../css/include_css.php"); ?>			
   </head>
 
@@ -22,17 +22,18 @@
 					<?php include_once("global/header.php"); ?>	
 				</div>
 				<p class="text-justify">
-					<strong>Description:</strong> The expected norm...(*be sure* to copy the assignment requirements here!) 
+					<strong>Assignment 2 Requirements:</strong> Create Healthy Recipes Android App,
+Provide screenshots of completed app,
+Screenshots of skillsets 1-3.
 				</p>
 
-				<h4>Java Installation</h4>
-				<img src="img/jdk_installation.png" class="img-responsive center-block" alt="JDK Installation">
+				<h4>Healthy Recipes Android App</h4>
+				<img src="img/A2_img1.png" class="img-responsive center-block" alt="JDK Installation">
 
-				<h4>Android Studio Installation</h4>
-				<img src="img/Android_A1_Screenshot.png" class="img-responsive center-block" alt="Android Studio Installation">
+				<img src="img/A2_img2.png" class="img-responsive center-block" alt="Android Studio Installation">
 
-				<h4>AMPPS Installation</h4>
-				<img src="img/ampps_installation.png" class="img-responsive center-block" alt="AMPPS Installation">
+				<h4>Skillset 1</h4>
+				<img src="img/Even_Or_Odd/png" class="img-responsive center-block" alt="AMPPS Installation">
 				
 				<?php include_once "global/footer.php"; ?>
 
