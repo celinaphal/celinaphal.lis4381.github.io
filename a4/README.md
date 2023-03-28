@@ -6,7 +6,8 @@
 #### Assignment 4 Requirements
 
 1. Create basic client-side validation.
-2. Provide screenshots passed and failed validation.
+2. Provide screenshot of passed validation.
+3. Provide screenshot of failed validation
 3. Screenshots of skillsets 10-12.
 
 ### Passed Validation

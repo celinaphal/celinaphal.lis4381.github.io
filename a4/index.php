@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<title>LIS4381 - Assignment 4</title>
+
 <meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -8,7 +10,6 @@
 	<meta name="author" content="Celina Phal">
 	<link rel="icon" href="favicon.ico">
 
-	<title>LIS4381 - Assignment 4</title>
 		<?php include_once("../css/include_css.php"); ?>
 </head>
 <body>
