@@ -26,6 +26,9 @@ LIS4381 Requirements:
     - Provide DB resource links
 
 4. [A4 README.md](a4/README.md "My A4 README.md file")
+    - Create basic client-side validation.
+    - Provide screenshots passed and failed validation.
+    - Screenshots of skillsets 10-12.
 
 5. [A5 README.md](a5/README.md "My A5 README.md file")
 
