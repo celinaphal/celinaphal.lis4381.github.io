@@ -8,7 +8,7 @@
 		<meta name="author" content="Mark K. Jowett, Ph.D.">
     <link rel="icon" href="favicon.ico">
 
-		<title>CRSXXXX - Assignment1</title>		
+		<title>LIS4381 - Assignment 3</title>		
 		<?php include_once("../css/include_css.php"); ?>			
   </head>
 
@@ -22,18 +22,27 @@
 					<?php include_once("global/header.php"); ?>	
 				</div>
 				<p class="text-justify">
-					<strong>Description:</strong> The expected norm...(*be sure* to copy the assignment requirements here!) 
+					<strong>Assignment 3 Requirements:</strong> The expected norm...(*be sure* to copy the assignment requirements here!) 
 				</p>
 
-				<h4>Java Installation</h4>
-				<img src="img/jdk_installation.png" class="img-responsive center-block" alt="JDK Installation">
+				<h4>Screenshot of ERD</h4>
+				<img src="img/img1.png" class="img-responsive center-block" alt="JDK Installation">
 
-				<h4>Android Studio Installation</h4>
-				<img src="img/Android_A1_Screenshot.png" class="img-responsive center-block" alt="Android Studio Installation">
+				<h4>Running Application's Opening User Interface</h4>
+				<img src="img/img2.png" class="img-responsive center-block" alt="Android Studio Installation">
 
-				<h4>AMPPS Installation</h4>
-				<img src="img/ampps_installation.png" class="img-responsive center-block" alt="AMPPS Installation">
+				<h4>Running Application Running User Input</h4>
+				<img src="img/img3.png" class="img-responsive center-block" alt="AMPPS Installation">
+
+				<h4>Screenshot of Pet Table</h4>
+				<img src="img/img4.png" class="img-responsive center-block" alt="AMPPS Installation">
 				
+				<h4>Screenshot of Customer Table</h4>
+				<img src="img/img5.png" class="img-responsive center-block" alt="AMPPS Installation">
+
+				<h4>Screenshot of Petstore Table</h4>
+				<img src="img/img6.png" class="img-responsive center-block" alt="AMPPS Installation">
+
 				<?php include_once "global/footer.php"; ?>
 
 			</div> <!-- starter-template -->

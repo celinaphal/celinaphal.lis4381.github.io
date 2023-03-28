@@ -17,7 +17,7 @@
 		 h2
 		 {
 			 margin: 0;     
-			 color: #666;
+			 color: rgb(242, 250, 255);
 			 padding-top: 50px;
 			 font-size: 52px;
 			 font-family: "trebuchet ms", sans-serif;    
@@ -70,30 +70,27 @@
 						<div class="carousel-inner">
 
 							<!-- -Note: you will need to modify the code to make it work with *both* text and images.  -->
-							<div class="active item" style="background: url(img/yourimage.jpg) no-repeat left center; background-size: cover;">
+							<div class="active item" style="background: url(img/fsu.jpg) no-repeat left center; background-size: cover;">
 								<div class="container">
 									<div class="carousel-caption">
-										<h3>testing</h3>
-										<p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+										<h2>Celina Phal</h2>
+										<p class="lead">Information, Communication, and Technology student.</p>
+
                         </div>
                       </div>
                     </div>
               
-							<div class="item">
-								<h2>Slide 2</h2>
+					<div class="item" style="background: url(img/bitbucket.jpg) no-repeat left center; background-size: cover;">
+								<h2>Bitbucket</h2>
 								<div class="carousel-caption">
-									<h3>Second slide label</h3>
-									<p>Aliquam sit amet gravida nibh, facilisis gravida odio.</p>
-									<img src="img/slide2.png" alt="Slide 2">									
+								<a href="https://bitbucket.org/cdp21d/">Link</a>	
 								</div>
 							</div>
 
-							<div class="item">
-								<h2>Slide 3</h2>
+							<div class="item" style="background: url(img/linkedin.jpg) no-repeat left center; background-size: cover;">
+								<h2>LinkedIn</h2>
 								<div class="carousel-caption">
-									<h3>Third slide label</h3>
-									<p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
-									<img src="img/slide3.png" alt="Slide 3">									
+								<a href="https://www.linkedin.com/in/celina-phal-14bb59225/">Link</a>	
 								</div>
 							</div>
 

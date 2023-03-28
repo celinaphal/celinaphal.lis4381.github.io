@@ -1,16 +1,24 @@
-> **NOTE:** This README.md file should be placed at the **root of each of your main directory.**
 
-# Class number and name
+# LIS4381: Mobile App Development
 
-## Your name
+## Celina Phal
 
-### Class Number Requirements:
+#### Assignment 4 Requirements
 
-*Course Work Links:*
+1. Create basic client-side validation.
+2. Provide screenshots passed and failed validation.
+3. Screenshots of skillsets 10-12.
 
-1. [A1 README.md](a1/README.md "My A1 README.md file")
-    - Install something
-    - Install something
+### Passed Validation
+![pass](img/img1.png)
 
-2. [A2 README.md](a2/README.md "My A2 README.md file")
+### Failed Validation
+![fail](img/img2.png)
 
+
+
+
+
+| *Screenshot of Skillset 10*      | *Screenshot of Skillset 11*: | *Screenshot of Skillset 12*:     |
+| :----:       |    :----:   |          :----: |
+| ![Skillset1](img/q10.png)   | ![Skillset2](img/q11.png) | ![Skillset3](img/q12.png) |

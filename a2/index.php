@@ -27,6 +27,7 @@ Provide screenshots of completed app,
 Screenshots of skillsets 1-3.
 				</p>
 
+
 				<h4>Healthy Recipes Android App</h4>
 				<img src="img/A2_img1.png" class="img-responsive center-block" alt="JDK Installation">
 
