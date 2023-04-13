@@ -31,6 +31,11 @@ LIS4381 Requirements:
     - Screenshots of skillsets 10-12.
 
 5. [A5 README.md](a5/README.md "My A5 README.md file")
+    - Connect database and add server-side validation.
+    - Provide screenshot of invalid data in add_petstore.php file.
+    - Provide screenshot of failed validation error message.
+    - Provide screenshots of valid data and passed validation.
+    - Screenshots of skillsets 13-15.
 
 6. [P1 README.md](p1/README.md "My P1 README.md file")
     - Create My Business Card App.
