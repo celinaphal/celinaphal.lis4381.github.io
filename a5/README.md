@@ -20,7 +20,7 @@
 
 
 ### add_petstore_process.php
-![fail](img/img5.png.png)
+![fail](img/img5.png)
 
 
 
