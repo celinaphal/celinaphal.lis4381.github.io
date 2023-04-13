@@ -14,9 +14,9 @@
 ### index.php
 ![pass](img/img1.png)
 
-| *add_petstore.php (Invalid*      | *add_petstore_process.php (Failed Validation*: | *add_petstore.php (valid)*:     |
+| *add_petstore.php (Invalid*      | *add_petstore_process.php (Failed Validation)*: | *add_petstore.php (valid)*:     |
 | :----:       |    :----:   |          :----: |
-| ![Skillset1](img/img2.png.png)   | ![Skillset2](img/img3.png.png) | ![Skillset3](img/img4.png) |
+| ![Skillset1](img/img2.png)   | ![Skillset2](img/img3.png) | ![Skillset3](img/img4.png) |
 
 
 ### add_petstore_process.php
