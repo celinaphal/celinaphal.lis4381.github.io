@@ -18,7 +18,6 @@
 | :----:       |    :----:   |
 | ![Skillset1](img/img2.png)   | ![Skillset2](img/img3.png) |
 
-*add_petstore.php (valid)*:     |
 
 | *add_petstore.php (valid)*:      | *add_petstore_process.php*: | 
 | :----:       |    :----:   |
