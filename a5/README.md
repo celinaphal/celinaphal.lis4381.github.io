@@ -14,13 +14,15 @@
 ### index.php
 ![pass](img/img1.png)
 
-| *add_petstore.php (Invalid*      | *add_petstore_process.php (Failed Validation)*: | *add_petstore.php (valid)*:     |
-| :----:       |    :----:   |          :----: |
-| ![Skillset1](img/img2.png)   | ![Skillset2](img/img3.png) | ![Skillset3](img/img4.png) |
+| *add_petstore.php (Invalid)*      | *add_petstore_process.php (Failed Validation)*: | 
+| :----:       |    :----:   |
+| ![Skillset1](img/img2.png)   | ![Skillset2](img/img3.png) |
 
+*add_petstore.php (valid)*:     |
 
-### add_petstore_process.php
-![fail](img/img5.png)
+| *add_petstore.php (valid)*:      | *add_petstore_process.php*: | 
+| :----:       |    :----:   |
+| ![Skillset1](img/img4.png)   | ![Skillset2](img/img5.png) |
 
 
 
