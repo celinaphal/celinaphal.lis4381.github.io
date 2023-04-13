@@ -1,4 +1,7 @@
-	<nav class="navbar navbar-fixed-top navbar-expand-sm bg-info navbar-light">
+	<nav class="navbar navbar-fixed-top navbar-expand-sm navbar-light" style="background-color: #F6A694;">
+	<body style="background-color:rgb(255, 244, 240);">
+</body>
+
 		<div class="container">			
 			<div class="navbar-header">
 				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
@@ -11,7 +14,7 @@
 			</div>
 
 			<div id="navbar" class="collapse navbar-collapse">
-				<ul class="nav navbar-nav">
+				<ul class="nav navbar-nav navbar-light">
 					<li class="active"><a href="index.php">LIS4381</a></li>
 					<li><a href="a1/index.php">A1</a></li>
 					<li><a href="a2/index.php">A2</a></li>

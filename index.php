@@ -7,7 +7,8 @@
 		<meta name="description" content="My online portfolio that illustrates skills acquired while working through various project requirements.">
 		<meta name="author" content="Celina Phal">
 		<link rel="icon" href="favicon.ico">
-
+		<body style="background-color:rgb(255, 244, 240);">
+</body>
 		<title>Celina Phal's Online Portfolio</title>
 
 		<?php include_once("css/include_css.php"); ?>	

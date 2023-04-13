@@ -1,4 +1,4 @@
-<nav class="navbar navbar-fixed-top navbar-expand-sm bg-info navbar-dark">
+<nav class="navbar navbar-fixed-top navbar-expand-sm navbar-light" style="background-color: #F6A694;">
 		<div class="container">			
 			<div class="navbar-header">
 				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
@@ -25,7 +25,8 @@
 			</div><!--/.nav-collapse -->
 		</div>
 	</nav>
-
+	<body style="background-color:rgb(255, 244, 240);">
+</body>
 <?php
 date_default_timezone_set('America/New_York');
 $today = date("m/d/y g:ia");

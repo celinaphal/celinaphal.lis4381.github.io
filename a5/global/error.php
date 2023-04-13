@@ -8,7 +8,7 @@
 	<meta name="author" content="Celina Phal">
 	<link rel="icon" href="favicon.ico">
 
-		<title>LIS4381</title>
+		<title>LIS4381 - Assignment 5</title>
 		<?php include_once("../css/include_css.php"); ?>
 </head>
 <body>
