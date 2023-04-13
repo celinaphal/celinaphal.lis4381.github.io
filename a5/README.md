@@ -24,9 +24,22 @@
 | ![Skillset1](img/img4.png)   | ![Skillset2](img/img5.png) |
 
 
+### Screenshot of skillset 13.
+![ss](img/q12.png)
+
+### Skillset 14: Simple Calculator
+| *index.php*:      | *process_functions.php*: | 
+| :----:       |    :----:   |
+| ![Skillset1](img/img6.png)   | ![Skillset2](img/img7.png) |
+
+| *index.php*:      | *process_functions.php*: | 
+| :----:       |    :----:   |
+| ![Skillset1](img/img8.png)   | ![Skillset2](img/img9.png) |
+
+### Skillset 15: Write/Read File
+
+| *index.php*:      | *process.php*: | 
+| :----:       |    :----:   |
+| ![Skillset1](img/img10.png)   | ![Skillset2](img/img11.png) |
 
 
-
-| *Screenshot of Skillset 10*      | *Screenshot of Skillset 11*: | *Screenshot of Skillset 12*:     |
-| :----:       |    :----:   |          :----: |
-| ![Skillset1](img/q10.png)   | ![Skillset2](img/q11.png) | ![Skillset3](img/q12.png) |
