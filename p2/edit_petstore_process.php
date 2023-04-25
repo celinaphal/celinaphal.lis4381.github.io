@@ -16,7 +16,7 @@ echo "<pre>";
 print_r($_POST);
 echo "</pre>";
 exit(); 
-*/
+*/ 
 //stop processing, otherwise, errors below
 //After testing, comment out above lines.
                
@@ -129,7 +129,7 @@ else if ($valid_state === false)
 else if ($valid_state === 0)
 {
     $error = 'State must contain two letters';
-    include('.//global/error.php');
+    include('../global/error.php');
 }
 
 else if ($valid_zip === false)

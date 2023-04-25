@@ -3,13 +3,14 @@
 
 ## Celina Phal
 
-#### Assignment 5 Requirements
+#### Project 2 Requirements
 
 1. Connect database and add server-side validation.
-2. Provide screenshot of invalid data in add_petstore.php file.
+2. Provide screenshot of invalid data in edit_petstore.php file.
 3. Provide screenshot of failed validation error message.
-4. Provide screenshots of valid data and passed validation.
-5. Screenshots of RSS Feed.
+4. Provide screenshot of delete record prompt and successfully deleted records.
+5. Provide screenshots of valid data and passed validation.
+6. Screenshots of RSS Feed.
 
 ### Homepage
 ![pass](img/img1.png)

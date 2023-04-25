@@ -43,5 +43,11 @@ LIS4381 Requirements:
     - Screenshots of skillsets 7-9.
 
 7. [P2 README.md](p2/README.md "My P2 README.md file")
+    - Connect database and add server-side validation.
+    - Provide screenshot of invalid data in edit_petstore.php file.
+    - Provide screenshot of failed validation error message.
+    - Provide screenshot of delete record prompt and successfully deleted records.
+    - Provide screenshots of valid data and passed validation.
+    - Screenshots of RSS Feed.
 
 

@@ -37,7 +37,7 @@
 						$query = 
 						"SELECT * 
 						FROM petstore
-						WHERE pst_id = :pst_id_p";
+						WHERE pst_id = :wherepst_id_p";
 
 						try
 						{
