@@ -20,7 +20,9 @@
 					<li><a href="../a5/index.php">A5</a></li>
 					<li><a href="../p1/index.php">P1</a></li>
 					<li><a href="../p2/index.php">P2</a></li>
-					<li><a href="../test/index.php">Test</a></li>					
+					<li><a href="../test/index.php">Test</a></li>	
+					<li><a href="../rss/index.php">RSS Feed</a></li>					
+				
 				</ul>
 			</div><!--/.nav-collapse -->
 		</div>
