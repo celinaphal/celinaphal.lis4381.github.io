@@ -79,13 +79,13 @@ if
 )
 {
     $error = "All fields require data, except <b>Notes</b>. Check all fields and try again.";
-    include('../global/error.php');
+    include('global/error.php');
 }
 
 else if (!is_numeric($pst_ytd_sales_v) || $pst_ytd_sales_v <= 0)
 {
     $error = 'YTD Sales can only contain numbers (other than a decimal point); and must be equal to or greather than zero.';
-    include('../global/error.php');
+    include('global/error.php');
 }
 
 else if ($valid_name === false)
@@ -96,7 +96,7 @@ else if ($valid_name === false)
 else if ($valid_name === 0)
 {
     $error = 'Name can only contain letters, numbers, hyphens, and underscore.';
-    include('../global/error.php');
+    include('global/error.php');
 }
 
 else if($valid_street === false)
@@ -107,7 +107,7 @@ else if($valid_street === false)
 else if($valid_street === 0)
 {
     $error = 'Street can only contain numbers, letters, commas, hyphens, and periods.';
-    include('../global/error.php');
+    include('global/error.php');
 }
 
 else if ($valid_city === false)
@@ -118,7 +118,7 @@ else if ($valid_city === false)
 else if ($valid_city === 0)
 {
     $error = 'City can only contain letters, numbers, and space character.';
-    include('../global/error.php');
+    include('global/error.php');
 }
 
 else if ($valid_state === false)
@@ -129,7 +129,7 @@ else if ($valid_state === false)
 else if ($valid_state === 0)
 {
     $error = 'State must contain two letters';
-    include('../global/error.php');
+    include('global/error.php');
 }
 
 else if ($valid_zip === false)
@@ -140,7 +140,7 @@ else if ($valid_zip === false)
 else if ($valid_zip === 0)
 {
     $error = 'Zip must contain 5-9 digits, and no other characters.';
-    include('../global/error.php');
+    include('global/error.php');
 }
 
 else if ($valid_phone === false)
@@ -151,7 +151,7 @@ else if ($valid_phone === false)
 else if ($valid_phone === 0)
 {
     $error = 'Phone must contain 10 digits, and no other characters.';
-    include('../global/error.php');
+    include('global/error.php');
 }
 
 else if ($valid_email === false)
@@ -162,7 +162,7 @@ else if ($valid_email === false)
 else if ($valid_email === 0)
 {
     $error = 'Must be valid email address.';
-    include('../global/error.php');
+    include('global/error.php');
 }
 
 else if ($valid_url === false)
@@ -173,7 +173,7 @@ else if ($valid_url === false)
 else if ($valid_url === 0)
 {
     $error = 'Must be valid url address.';
-    include('../global/error.php');
+    include('global/error.php');
 }
 
 else if ($valid_ytd_sales === false)
@@ -184,7 +184,7 @@ else if ($valid_ytd_sales === false)
 else if ($valid_ytd_sales === 0)
 {
     $error = 'YTD_Sales must contain no more than 10 digits, including a decimal point.';
-    include('../global/error.php');
+    include('global/error.php');
 }
 
 else
@@ -204,7 +204,7 @@ else
     pst_email = :pst_email_p,
     pst_url = :pst_url_p,
     pst_ytd_sales = :pst_ytd_sales_p,
-    pst_notes = :pst_notes_p,
+    pst_notes = :pst_notes_p
  WHERE pst_id = :pst_id_p";
 
     try
@@ -223,6 +223,8 @@ else
         $statement -> bindParam(':pst_notes_p', $pst_notes_v);
         $row_count = $statement->execute();
         $statement -> closeCursor();
+
+        $last_auto_increment_id = $db ->lastInsertId();
 
         header('Location: index.php');
     }

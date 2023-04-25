@@ -34,10 +34,7 @@
 
 						$pst_id_v = $_POST['pst_id'];
 						
-						$query = 
-						"SELECT * 
-						FROM petstore
-						WHERE pst_id = :wherepst_id_p";
+						$query = "SELECT * FROM petstore WHERE pst_id = :pst_id_p";
 
 						try
 						{
@@ -242,7 +239,7 @@
 					zip: {
 							validators: {
 									notEmpty: {
-											message: 'Zip required, onlu numbers'
+											message: 'Zip required, only numbers'
 									},
 									stringLength: {
 											min: 5,
